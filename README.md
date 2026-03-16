@@ -55,7 +55,7 @@ This project is a Business Intelligence (BI) dashboard designed to analyze the p
 Feel free to fork this repo, suggest improvements, or share new ideas for additional metrics and visualizations.
 
 📧 Contact
-Created by [Mukesh Chandra Pant]
+- Created by [Mukesh Chandra Pant]
 - 💼 LinkedIn: [https://www.linkedin.com/in/mukesh-pant-67a204149/]
 - 📊 GitHub: [https://github.com/Mukeshchandrapant]
 - 📩 Email: [Mukesh.pantg@gmail.com]
